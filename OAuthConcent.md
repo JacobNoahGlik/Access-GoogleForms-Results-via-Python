@@ -72,7 +72,7 @@ ____________________________________________
 
 Here you will find a summary of the previous selections. 
 
-✔️ Select the `BACK TO DASHBOARD` button to return to your dashboard and create an OAuth token.
+✔️ Select the `BACK TO DASHBOARD` button to return to your dashboard and create an OAuth token. You can read more about creating an OAuth token in the [get_an_OAuth_token.md](get_an_OAuth_token.md) file.
 
 <br>
 

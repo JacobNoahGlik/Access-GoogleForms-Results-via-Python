@@ -12,5 +12,5 @@ Finally, click the application type dropdown, select `Desktop app`, and name it 
 
 Click the blue `CREATE` button at the bottom of the page.
 
-A pop-up window will appear with your client-ID and client-secrate. Save both somewhere secure.
+A pop-up window will appear with your `client-ID` and `client-secret`. Save both somewhere secure.
 

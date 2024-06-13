@@ -3,6 +3,7 @@ LINK: https://console.cloud.google.com/apis/credentials/consent?project=referenc
 ## OAuth consent screen
 
 Click on External and hit the blue `CREATE` button.
+
 ![image](OAuthConcentScreen.png)
 
 ____________________________________________

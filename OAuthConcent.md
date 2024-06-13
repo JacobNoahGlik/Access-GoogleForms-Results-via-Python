@@ -3,7 +3,7 @@ LINK: https://console.cloud.google.com/apis/credentials/consent?project=referenc
 ## OAuth consent screen
 
 Click on External and hit the blue `CREATE` button.
-![image](image.png)
+![image](OAuthConcentScreen.png)
 
 ____________________________________________
 
@@ -60,12 +60,6 @@ Click the `+ ADD USERS` button.
 Add the Gmail account that owns the Google Form OR has viewing access to the Google Form's results.
 
 ✔️ Scroll to the bottom and select the `SAVE AND CONTINUE` button.
-
-**THE FOLLOWING IS AN EXERPT FROM [meta.ai](https://www.meta.ai)**
-```txt
-On the Test users screen, you don't need to add any test users since you're the only one using this app for your own Google Form data. The test users feature is useful when you're developing an app for others to use, but in this case, you can skip it.
-Simply click on the "SAVE AND CONTINUE" button to proceed to the Summary screen. This will save your progress and take you to the final step.
-```
 
 ____________________________________________
 

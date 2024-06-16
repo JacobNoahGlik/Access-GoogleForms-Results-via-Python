@@ -17,6 +17,24 @@ _________________________
 
 <br>
 
+## Use Cases and Project Goals
+
+This repository provides a foundation for automating Google Forms data processing and integration with other tools and systems. Some potential use cases include:
+
+* Data analysis and visualization: Download form data locally and analyze it using Python libraries like Pandas, NumPy, and Matplotlib.
+* Automation and integration: Use form data to trigger actions, update databases, or integrate with other applications.
+* Custom processing and grading: Apply custom logic to form responses, such as automated grading using a predesigned answer key rubric.
+
+The primary goal of this project is to create an automated grading system that leverages Google Forms, Python, and Llama 3 LLM's capabilities. By automating the grading process, we aim to increase efficiency, accuracy, and fairness in evaluations. Future developments will focus on expanding the system's capabilities and integrating additional features, such as natural language processing and AI-driven feedback generation in future repos.
+
+<br>
+
+_________________________
+
+<br>
+
+<br>
+
 ## Getting an OAuth Token
 
 Go to [Google Cloud Consol](https://console.cloud.google.com/)s website and select the `APIs & Services` button.

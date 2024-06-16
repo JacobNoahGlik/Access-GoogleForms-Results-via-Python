@@ -3,7 +3,7 @@ Access Google Forms results via Python using GoogleFormsAPI
 
 ## Running The Script
 
-###### Note: To use the GoogleFormsAPI you will need an OAuth 2.0 token. Read [Getting an OAuth Token](Getting-an-OAuth-Token) for more info. Once you've created an OAuth 2.0 token, google will give you access to a `client-ID` and `client-secret`.
+###### Note: To use the GoogleFormsAPI you will need an OAuth 2.0 token. Read [Getting an OAuth Token](#Getting-an-OAuth-Token) for more info. Once you've created an OAuth 2.0 token, google will give you access to a `client-ID` and `client-secret`.
 
 1. Download the [credentials.json](credentials.json) file and replace the `client-ID` and `client-secret` with your own.
 
@@ -25,7 +25,7 @@ Navigate to the `credentials` tab and select the `+ CREATE CREDENTIALS` button t
 
 Select the second item (`OAuth client ID`, sub-text: "Requests user consent so your app can access the user's data")
 
-This will bring you to the "Create OAuth client ID" page. **However**, in order to be able to continue you need to fill out the `OAuth consent screen` and pass the screening process. The step-by-step process is in the [OAuth consent screen](OAuth-consent-screen) section.
+This will bring you to the "Create OAuth client ID" page. **However**, in order to be able to continue you need to fill out the `OAuth consent screen` and pass the screening process. The step-by-step process is in the [OAuth consent screen](#OAuth-consent-screen) section.
 
 Finally, click the application type dropdown, select `Desktop app`, and name it whatever you'd like.
 
@@ -113,7 +113,7 @@ ____________________________________________
 
 Here you will find a summary of the previous selections. 
 
-✔️ Select the `BACK TO DASHBOARD` button to return to your dashboard and create an OAuth token. You can read more about creating an OAuth token in the [Getting an OAuth Token](Getting-an-OAuth-Token) section of the README.
+✔️ Select the `BACK TO DASHBOARD` button to return to your dashboard and create an OAuth token. You can read more about creating an OAuth token in the [Getting an OAuth Token](#Getting-an-OAuth-Token) section of the README.
 
 <br>
 
